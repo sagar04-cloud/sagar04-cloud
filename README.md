@@ -89,13 +89,6 @@ https://github.com/sagar04-cloud/Smart-Attendance-System
 
 ---
 
-## 📈 GitHub Stats
-
-![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagar04-cloud\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar04-cloud\&layout=compact\&theme=tokyonight)
-
----
 
 ## 📫 Connect With Me
 
