@@ -32,7 +32,7 @@ Supabase | Firebase
 
 ### 🧰 Tools
 
-Git | GitHub | VS Code | Vercel | Postman
+Git | GitHub | VS Code | Vercel 
 
 ---
 
