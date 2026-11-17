@@ -1,6 +1,6 @@
 # Hi 👋 I'm Sagar
 
-🚀 Final Year Computer Science Student
+🚀 Computer Science Student
 💻 Full Stack Developer | React & TypeScript | AI Projects
 📍 India
 
