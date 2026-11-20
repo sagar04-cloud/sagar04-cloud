@@ -140,7 +140,7 @@ const sagar = {
 
 <div align="center">
 
-<a href="https://sagarr-2005.vercel.app"><img src="https://img.shields.io/badge/Portfolio-sagarr--2005.vercel.app-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a> <a href="https://www.linkedin.com/in/sagar-u/"><img src="https://img.shields.io/badge/LinkedIn-Sagar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://github.com/sagar04-cloud"><img src="https://img.shields.io/badge/GitHub-sagar04--cloud-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://sagarr-2005.vercel.app"><img src="https://img.shields.io/badge/Portfolio-sagarr--2005.vercel.app-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a> <a href="https://www.linkedin.com/in/sagar-u/"><img src="https://img.shields.io/badge/LinkedIn-sagar--u-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://github.com/sagar04-cloud"><img src="https://img.shields.io/badge/GitHub-sagar04--cloud-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/><br/>
 
