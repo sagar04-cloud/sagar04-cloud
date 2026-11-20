@@ -7,17 +7,13 @@
 </a>
 
 <p>
-  <a href="https://www.linkedin.com/in/sagar-u/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/sagar04-cloud"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=sagar04-cloud&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <a href="https://sagarr-2005.vercel.app"><img src="https://img.shields.io/badge/Portfolio-sagarr--2005.vercel.app-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/sagar-u/"><img src="https://img.shields.io/badge/LinkedIn-sagar--u-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/sagar04-cloud"><img src="https://img.shields.io/badge/GitHub-sagar04--cloud-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <p>
-  <a href="#-about-me">About</a> •
-  <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-featured-projects">Projects</a> •
-  <a href="#-github-stats">Stats</a> •
-  <a href="#-lets-connect">Contact</a>
+  <img src="https://komarev.com/ghpvc/?username=sagar04-cloud&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
 </div>
@@ -57,19 +53,39 @@ const sagar = {
 <table align="center">
 <tr>
   <td align="center" width="200"><b>💻 Languages</b></td>
-  <td><img src="https://skillicons.dev/icons?i=js,ts,python,html,css&theme=dark" alt="languages" /></td>
+  <td>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript" /></a>
+    <a href="https://www.typescriptlang.org" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" height="48" alt="TypeScript" /></a>
+    <a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS" /></a>
+  </td>
 </tr>
 <tr>
-  <td align="center"><b>⚙️ Frameworks</b></td>
-  <td><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&theme=dark" alt="frameworks" /></td>
+  <td align="center" width="200"><b>⚙️ Frameworks</b></td>
+  <td>
+    <a href="https://react.dev" title="React"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React" /></a>
+    <a href="https://nextjs.org" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" height="48" alt="Next.js" /></a>
+    <a href="https://nodejs.org" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js" /></a>
+    <a href="https://expressjs.com" title="Express"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" height="48" alt="Express" /></a>
+    <a href="https://tailwindcss.com" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48" alt="Tailwind CSS" /></a>
+  </td>
 </tr>
 <tr>
-  <td align="center"><b>🗄 Databases</b></td>
-  <td><img src="https://skillicons.dev/icons?i=supabase,firebase&theme=dark" alt="databases" /></td>
+  <td align="center" width="200"><b>🗄 Databases</b></td>
+  <td>
+    <a href="https://supabase.com" title="Supabase"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="48" height="48" alt="Supabase" /></a>
+    <a href="https://firebase.google.com" title="Firebase"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48" height="48" alt="Firebase" /></a>
+  </td>
 </tr>
 <tr>
-  <td align="center"><b>🧰 Tools</b></td>
-  <td><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="tools" /></td>
+  <td align="center" width="200"><b>🧰 Tools</b></td>
+  <td>
+    <a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git" /></a>
+    <a href="https://github.com" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" /></a>
+    <a href="https://code.visualstudio.com" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code" /></a>
+    <a href="https://vercel.com" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" height="48" alt="Vercel" /></a>
+  </td>
 </tr>
 </table>
 
@@ -120,7 +136,6 @@ const sagar = {
 
 ---
 
-
 ## 🎯 Currently
 
 <table>
@@ -140,9 +155,9 @@ const sagar = {
 
 <div align="center">
 
-<a href="https://sagarr-2005.vercel.app"><img src="https://img.shields.io/badge/Portfolio-sagarr--2005.vercel.app-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a> <a href="https://www.linkedin.com/in/sagar-u/"><img src="https://img.shields.io/badge/LinkedIn-sagar--u-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://github.com/sagar04-cloud"><img src="https://img.shields.io/badge/GitHub-sagar04--cloud-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
-<br/><br/>
+<a href="https://sagarr-2005.vercel.app"><img src="https://img.shields.io/badge/Portfolio-sagarr--2005.vercel.app-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/sagar-u/"><img src="https://img.shields.io/badge/LinkedIn-sagar--u-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/sagar04-cloud"><img src="https://img.shields.io/badge/GitHub-sagar04--cloud-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/><br/>
 
