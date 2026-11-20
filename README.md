@@ -120,20 +120,6 @@ const sagar = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sagar04-cloud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar04-cloud&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=sagar04-cloud&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
----
 
 ## 🎯 Currently
 
