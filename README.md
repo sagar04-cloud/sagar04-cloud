@@ -12,9 +12,6 @@
   <a href="https://github.com/sagar04-cloud"><img src="https://img.shields.io/badge/GitHub-sagar04--cloud-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=sagar04-cloud&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-</p>
 
 </div>
 
